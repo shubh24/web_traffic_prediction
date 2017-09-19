@@ -17,4 +17,4 @@ Later on, i included more features like rolling standard dev, rolling min/max et
 
 *Language and Source* -- I tried incorporating statistics derived from the language of the page, or the source(Crawler, Spider etc), but those didn't get me a boost on a vanilla xgboost. Dropped them for the sake of simplicity. 
 
-**Last day's visits** -- Features like the **last day's visits** were incredibly useful while doing a validation run. Not so with the testing data, because of the live nature of the competition. I have to submit predictions for all pages over the next two months -- Clearly, using last day's visits is stupid!
+*Last day's visits* -- Features like the **last day's visits** were incredibly useful while doing a validation run. Not so with the testing data, because of the live nature of the competition. I have to submit predictions for all pages over the next two months -- Clearly, using last day's visits is stupid!
